@@ -67,9 +67,10 @@ public class BazziController : MonoBehaviour
         {
             transform.Translate(Vector3.down * speedBazzi * Time.deltaTime);
         }
+        //Å¬¸¯½Ã ÆøÅº ¼ÒÈ¯
         if (Input.GetMouseButtonDown(0))
         {
-            bomb.GetComponent<Bomb>().Bombspawn();
+            bomb.GetComponent<BombSpawner>().Bombspawn();
         }
 
     }

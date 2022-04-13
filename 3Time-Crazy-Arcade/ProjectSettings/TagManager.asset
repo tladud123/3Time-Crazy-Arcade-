@@ -41,7 +41,7 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: player
+  - name: New Layer
     uniqueID: 542987795
     locked: 0
   - name: New Layer
@@ -52,4 +52,16 @@ TagManager:
     locked: 0
   - name: New Layer
     uniqueID: 2391983741
+    locked: 0
+  - name: New Layer
+    uniqueID: 3128937513
+    locked: 0
+  - name: bubble
+    uniqueID: 3090793725
+    locked: 0
+  - name: New Layer
+    uniqueID: 2607681199
+    locked: 0
+  - name: player
+    uniqueID: 183022201
     locked: 0
