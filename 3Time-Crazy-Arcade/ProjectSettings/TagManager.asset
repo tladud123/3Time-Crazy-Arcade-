@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Power
+  - Speed
+  - Count
+  - Bubble
   layers:
   - Default
   - TransparentFX
@@ -53,7 +57,7 @@ TagManager:
   - name: New Layer
     uniqueID: 2391983741
     locked: 0
-  - name: New Layer
+  - name: Item
     uniqueID: 3128937513
     locked: 0
   - name: bubble

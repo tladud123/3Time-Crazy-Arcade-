@@ -14,14 +14,20 @@ public class BazziController : MonoBehaviour
     private Animator animator;
     // 배찌 최대 스피드
     public float maxSpeedBazzi = 5f;
-    // 배찌 스피드
+    // 배찌 기본 스피드
     public float speedBazzi = 2f;
+    // 배찌 추가 스피드
+    public float minSpeedBazzi = 2f;
+    // 물풍선 상태 스피드
+    public float hurtSpeed = 0.5f;
     // 캐릭터 최대 생명력
     public int maxLife = 3;
     // 캐릭터 초기 생명력
     public int life = 3;
     // 폭탄 스키립트 연결
     public GameObject bomb;
+
+    private bool inBubble = false;
     void Start()
     {
         // 각 전역변수의 초기화
@@ -68,13 +74,73 @@ public class BazziController : MonoBehaviour
             transform.Translate(Vector3.down * speedBazzi * Time.deltaTime);
         }
         //클릭시 폭탄 소환
-        if (Input.GetMouseButtonDown(0))
+        
+        if (Input.GetMouseButtonDown(0) && !inBubble)
         {
             bomb.GetComponent<BombSpawner>().Bombspawn();
         }
 
     }
+    void BombSpawn(int newbomb)
+    {
 
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "Bubble")
+        {
+            inBubble = true;
+        }
+
+
+        //아이템 부분
+        if (collision.tag == "Speed")
+        {
+            if (speedBazzi < maxSpeedBazzi)
+            {
+                speedBazzi++;
+                minSpeedBazzi++;
+            }
+        }
+        if (collision.tag == "Count")
+        {
+            bomb.GetComponent<BombSpawner>().Bombcount();
+        }
+        if (collision.tag == "Power")
+        {
+            bomb.GetComponent<BombSpawner>().BombPower();
+        }
+        if (collision.tag == "Life")
+        {
+            if (life < maxLife)
+            {
+                life++;
+            }
+        }
+        //몬스터 및 물줄기 충돌부분
+        if(collision.tag== "Enemy")
+        {
+            Die();
+        }
+        if (collision.tag == "Water")
+        {
+            Die();
+        }
+
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.tag == "Bubble")
+        {
+            inBubble = false;
+        }
+    }
+    void Die()
+    {
+        speedBazzi = 0.5f;
+
+    }
 
 }
     

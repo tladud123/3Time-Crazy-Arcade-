@@ -16,4 +16,21 @@ public class Bomb : MonoBehaviour
     {
         
     }
+
+    //private void OnTriggerEnter2D(Collider2D collision)
+    //{
+    //    if(collision.tag == "Player")
+    //    {
+    //        BazziController bazziController = collision.GetComponent<BazziController>();
+    //        bazziController.inBubble = true;
+    //    }
+    //}
+    //private void OnTriggerExit2D(Collider2D collision)
+    //{
+    //    if (collision.tag == "Player")
+    //    {
+    //        BazziController bazziController = collision.GetComponent<BazziController>();
+    //        bazziController.inBubble = false;
+    //    }
+    //}
 }
