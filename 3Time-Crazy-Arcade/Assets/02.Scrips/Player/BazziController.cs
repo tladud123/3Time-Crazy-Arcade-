@@ -73,8 +73,12 @@ public class BazziController : MonoBehaviour
         {
             transform.Translate(Vector3.down * speedBazzi * Time.deltaTime);
         }
+
+        animator.SetFloat("MoveX", Input.GetAxisRaw("Horizontal"));
+        animator.SetFloat("MoveY", Input.GetAxisRaw("Vertical"));
+
         //Å¬¸¯½Ã ÆøÅº ¼ÒÈ¯
-        
+
         if (Input.GetMouseButtonDown(0) && !inBubble)
         {
             bomb.GetComponent<BombSpawner>().Bombspawn();

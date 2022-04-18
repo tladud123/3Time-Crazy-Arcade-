@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1285604775659320305}
   - component: {fileID: 6701979456126125580}
   - component: {fileID: 2969255188843730839}
+  - component: {fileID: 4649977718800047130}
   m_Layer: 0
   m_Name: Bubble
   m_TagString: Bubble
@@ -78,10 +79,10 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.47, y: 0.45}
+  m_Size: {x: 0.4, y: 0.41}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!114 &6701979456126125580
@@ -112,3 +113,22 @@ CircleCollider2D:
   m_Offset: {x: -0.044999998, y: 0.008888483}
   serializedVersion: 2
   m_Radius: 0.18949544
+--- !u!95 &4649977718800047130
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8621029873783488569}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f329a308972a25a4cac1169c778cf6d6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

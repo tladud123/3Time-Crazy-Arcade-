@@ -1,12 +1,234 @@
 fileFormatVersion: 2
-guid: 03f7d353cb6a8f84e963449596698ec3
+guid: fd4504cc8b95974408cf339b3bc647eb
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Bazzi_0
+  - first:
+      213: 21300002
+    second: Bazzi_1
+  - first:
+      213: 21300004
+    second: Bazzi_2
+  - first:
+      213: 21300006
+    second: Bazzi_3
+  - first:
+      213: 21300008
+    second: Bazzi_4
+  - first:
+      213: 21300010
+    second: Bazzi_5
+  - first:
+      213: 21300012
+    second: Bazzi_6
+  - first:
+      213: 21300014
+    second: Bazzi_7
+  - first:
+      213: 21300016
+    second: Bazzi_8
+  - first:
+      213: 21300018
+    second: Bazzi_9
+  - first:
+      213: 21300020
+    second: Bazzi_10
+  - first:
+      213: 21300022
+    second: Bazzi_11
+  - first:
+      213: 21300024
+    second: Bazzi_12
+  - first:
+      213: 21300026
+    second: Bazzi_13
+  - first:
+      213: 21300028
+    second: Bazzi_14
+  - first:
+      213: 21300030
+    second: Bazzi_15
+  - first:
+      213: 21300032
+    second: Bazzi_16
+  - first:
+      213: 21300034
+    second: Bazzi_17
+  - first:
+      213: 21300036
+    second: Bazzi_18
+  - first:
+      213: 21300038
+    second: Bazzi_19
+  - first:
+      213: 21300040
+    second: Bazzi_20
+  - first:
+      213: 21300042
+    second: Bazzi_21
+  - first:
+      213: 21300044
+    second: Bazzi_22
+  - first:
+      213: 21300046
+    second: Bazzi_23
+  - first:
+      213: 21300048
+    second: Bazzi_24
+  - first:
+      213: 21300050
+    second: Bazzi_25
+  - first:
+      213: 21300052
+    second: Bazzi_26
+  - first:
+      213: 21300054
+    second: Bazzi_27
+  - first:
+      213: 21300056
+    second: Bazzi_28
+  - first:
+      213: 21300058
+    second: Bazzi_29
+  - first:
+      213: 21300060
+    second: Bazzi_30
+  - first:
+      213: 21300062
+    second: Bazzi_31
+  - first:
+      213: 21300064
+    second: Bazzi_32
+  - first:
+      213: 21300066
+    second: Bazzi_33
+  - first:
+      213: 21300068
+    second: Bazzi_34
+  - first:
+      213: 21300070
+    second: Bazzi_35
+  - first:
+      213: 21300072
+    second: Bazzi_36
+  - first:
+      213: 21300074
+    second: Bazzi_37
+  - first:
+      213: 21300076
+    second: Bazzi_38
+  - first:
+      213: 21300078
+    second: Bazzi_39
+  - first:
+      213: 21300080
+    second: Bazzi_40
+  - first:
+      213: 21300082
+    second: Bazzi_41
+  - first:
+      213: 21300084
+    second: Bazzi_42
+  - first:
+      213: 21300086
+    second: Bazzi_43
+  - first:
+      213: 21300088
+    second: Bazzi_44
+  - first:
+      213: 21300090
+    second: Bazzi_45
+  - first:
+      213: 21300092
+    second: Bazzi_46
+  - first:
+      213: 21300094
+    second: Bazzi_47
+  - first:
+      213: 21300096
+    second: Bazzi_48
+  - first:
+      213: 21300098
+    second: Bazzi_49
+  - first:
+      213: 21300100
+    second: Bazzi_50
+  - first:
+      213: 21300102
+    second: Bazzi_51
+  - first:
+      213: 21300104
+    second: Bazzi_52
+  - first:
+      213: 21300106
+    second: Bazzi_53
+  - first:
+      213: 21300108
+    second: Bazzi_54
+  - first:
+      213: 21300110
+    second: Bazzi_55
+  - first:
+      213: 21300112
+    second: Bazzi_56
+  - first:
+      213: 21300114
+    second: Bazzi_57
+  - first:
+      213: 21300116
+    second: Bazzi_58
+  - first:
+      213: 21300118
+    second: Bazzi_59
+  - first:
+      213: 21300120
+    second: Bazzi_60
+  - first:
+      213: 21300122
+    second: Bazzi_61
+  - first:
+      213: 21300124
+    second: Bazzi_62
+  - first:
+      213: 21300126
+    second: Bazzi_63
+  - first:
+      213: 21300128
+    second: Bazzi_64
+  - first:
+      213: 21300130
+    second: Bazzi_65
+  - first:
+      213: 21300132
+    second: Bazzi_66
+  - first:
+      213: 21300134
+    second: Bazzi_67
+  - first:
+      213: 21300136
+    second: Bazzi_68
+  - first:
+      213: 21300138
+    second: Bazzi_69
+  - first:
+      213: 21300140
+    second: Bazzi_70
+  - first:
+      213: 21300142
+    second: Bazzi_71
+  - first:
+      213: 21300144
+    second: Bazzi_72
+  - first:
+      213: 21300146
+    second: Bazzi_73
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -28,7 +250,7 @@ TextureImporter:
   generateCubemap: 6
   cubemapConvolution: 0
   seamlessCubemap: 0
-  textureFormat: 1
+  textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
@@ -41,7 +263,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -61,7 +283,7 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -74,14 +296,1286 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Bazzi_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 722
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93acc4d1c1014d149ba7f863842f0dea
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 723
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f27e2af987438f4c85f0781866c9f59
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 723
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ce4ad1bb66cb3439cb6b6db072e43c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 693
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c5080a3aaced94a929917cc8831f74
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 693
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d835d676d3401b44995525706c7d57e7
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 693
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5655c25197dd6e24c8755a026ade1e35
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 693
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7ba8ad50e9a6c49ad95f3d56549044
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 693
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f1222dc9223854295025f441e3243b
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_8
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 693
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903b3d56d9b4d584989cdcc9b355f649
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 622
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2024b6dba14185049940738030efefca
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 622
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aba0fb619e3af64bbdf9bf0ffc4c745
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 551
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b76a43697e9e254690cf51c8409c09d
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 551
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a4a411694980e42aea7e90c80c3aed
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 551
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452bb8ebd946fff4a9772c6319793af2
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 551
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12f9198b0f866d4098fc351eee1ae85
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_15
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 551
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620d82a5fa597b949865284a1f5724df
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 551
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812cb23df1d2b994fb4a6a5054ce483f
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 480
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b5f650c33405e42850ff3045dd333f
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 480
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08678fb55931aa84083faf555194813b
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82157710a5f505d4e8d38e979d5289ac
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 480
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a6cbb1a522651459e72a92a9b7d522
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_21
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 480
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e39542dac3adaa43a7e9687ded99273
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_22
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 480
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92d771d31066304e9c06c023cde92d5
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 409
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1e213291abec4469224e08d184031d
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_24
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 409
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00918264d4e6a154b94cbd79c286b071
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_25
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 392
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e2538b9fbee56449436a8d6495ad6e
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_26
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 399
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f024a6f831b8894ebfd9bab0f8ecdc6
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_29
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 392
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f825cb3fb142c3d49a1f5c918a461a7e
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_34
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 308
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0343a0687d289e64e8d41c77cd638dbc
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 309
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbfa0be6950cae45af7770f69780c49
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_36
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 307
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de673862f52e68448bfb4af2429fe068
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_40
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 321
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc01667ddc74687459047fafe020b549
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_41
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 321
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11c6032c01dc4b469e630880e27d6e8
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_47
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 239
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c567df8659846b141ab15782c2dc6828
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_48
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 234
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7633c81d7c15ee4fa04dca982e0f37a
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 197
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2ac4bca2a5c514a842864aff0c2fe4
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_50
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 197
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47d7ad38a21bff42af5653c87eabcb1
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 197
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6217891f3f14a4ab8cecde3a38c666
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_52
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 208
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74979a29e4279b45a2f1dfb71b719c1
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_53
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 205
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3c499e448230f4d9179f7f4ef3760c
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_54
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 126
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885f8058cf11f1e40b4c266ec67f4cdc
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_55
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 126
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0538d472e6e8145911bb46a2dfca3d
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_56
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 126
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9121a938a0a8bb4a97a15cc26ef204f
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_57
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 145
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987553f175969b447a3212f956dee02f
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_58
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 145
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7657803fa49874ab598a34763ae62c
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_59
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 146
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996328792f2d2c84c849c885782ccaad
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_60
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 146
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f333266e23e03694a9db8d4796f64437
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_61
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 127
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a4c8fd9d315e44880e5b629e071e85
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_62
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 127
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8348757f8dcde4db92499765038d8a
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_63
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 55
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da508bfb1927ad84199a71f74b3dab00
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_64
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 55
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af7fe8515bbb144ebfd845da637832d
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_65
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 95
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ee19d8b18bae34e837a22577a97260
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_66
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 94
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796c924eceb611443a34db077e67f590
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_67
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 95
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360081efa34ed804b846b1a00f7ae8ac
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_68
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 98
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c29fbefab6cf14e83289ec3bc111f3
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_69
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 55
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f33f5e07ed9fc46806e66cd4cff473
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_70
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b66213fd1c4c9488d037e96459d1e8
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_71
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 70
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b3c40d6cd5e424192fb53678692b46
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_72
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 55
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de2d3d0d0d2e9844b1c8bb38db807e6
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bazzi_73
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e313b10cf50840d40be2184a7fa8abc6
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 732136ffcbdac5443b440cd0894eea76
     internalID: 0
     vertices: []
     indices: 
